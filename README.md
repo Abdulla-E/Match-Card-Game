@@ -5,8 +5,8 @@
 ##
 ### Wireframe
 ![asset](images/1.jpg)
-![asset](images\2.jpg)
-![asset](images\3.jpg)
-![asset](images\4.jpg)
+![asset](images/2.jpg)
+![asset](images/3.jpg)
+![asset](images/4.jpg)
 
 
