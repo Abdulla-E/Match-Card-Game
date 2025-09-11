@@ -5,7 +5,10 @@
 4# add an if statement that if one image matches the other then it'll then that photo will be a match
 
 5# apply `eventListener` to the corresponding `const` and photos
-6# check functionality
+6# check functionality:
+-----sub 1# will the cards flip and go back to thier original state? check!
+-----sub 2# will the cards match when i select the correct match? 
+-----sub 3# will i get a "you win" message? 
 7# touch up the final code
 8# touch up the final design of the `CSS` and `Html`
 
