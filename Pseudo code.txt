@@ -1,0 +1,13 @@
+  Pseudo Code!
+1# apply basic `Html` to the first page
+2# apply basic `CSS` to the first page
+3# start making the starter `const`
+4# add an if statement that if one image matches the other then it'll then that photo will be a match
+
+5# apply `eventListener` to the corresponding `const` and photos
+6# check functionality
+7# touch up the final code
+8# touch up the final design of the `CSS` and `Html`
+
+rinse and repeat for difficulty 2 and 3
+
