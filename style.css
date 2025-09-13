@@ -1,0 +1,43 @@
+body {
+  margin-top: 400px;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  cursor: default;
+}
+div{
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 300px;
+  margin-top: 150px;
+
+
+
+}
+button{
+  text-align: center;
+  background: none;
+  cursor: pointer;
+  border: none;
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+margin-inline: 150px;
+
+
+}
+
+button:hover {
+  transform: translate(2px);
+}
+
+
+.bottom{
+  padding-left: 70px;
+}
+
+
+
